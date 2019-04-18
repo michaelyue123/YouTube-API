@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is the app for building **YouTube videos**. When you type some search terms in the search box, the browser will bring back the matching videos on the righthand side of the screen. And if you click on one of these videos, it will play right in the centre of the screen. Also, the title and description will be shown at the bottom. 
+
 ## Available Scripts
 
 In the project directory, you can run:
